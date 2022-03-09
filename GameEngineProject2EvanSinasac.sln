@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameEngineProject2EvanSinasac", "GameEngineProject2EvanSinasac\GameEngineProject2EvanSinasac.vcxproj", "{86A8428F-DD42-4EED-96FA-CC1B576A16BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A8428F-DD42-4EED-96FA-CC1B576A16BB}.Debug|x64.ActiveCfg = Debug|x64
+		{86A8428F-DD42-4EED-96FA-CC1B576A16BB}.Debug|x64.Build.0 = Debug|x64
+		{86A8428F-DD42-4EED-96FA-CC1B576A16BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{86A8428F-DD42-4EED-96FA-CC1B576A16BB}.Debug|x86.Build.0 = Debug|Win32
+		{86A8428F-DD42-4EED-96FA-CC1B576A16BB}.Release|x64.ActiveCfg = Release|x64
+		{86A8428F-DD42-4EED-96FA-CC1B576A16BB}.Release|x64.Build.0 = Release|x64
+		{86A8428F-DD42-4EED-96FA-CC1B576A16BB}.Release|x86.ActiveCfg = Release|Win32
+		{86A8428F-DD42-4EED-96FA-CC1B576A16BB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {094316BF-82C7-48B3-B4D9-F84757BD4D7B}
+	EndGlobalSection
+EndGlobal

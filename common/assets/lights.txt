@@ -1,0 +1,8 @@
+position(x,y,z) diffuse(r,g,b) specular(r,g,b) atten(x,y,z,w) direction(x,y,z) param1(x,y,z) param2(x)
+
+
+1000 1000 1000 198 200 205 198 200 205 1 0.00001 0.0000001 100000000 0 -1 0 2 0 0 1
+
+
+
+end
