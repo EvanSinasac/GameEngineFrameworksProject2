@@ -33,5 +33,4 @@ Follow Waypoints (Relative Time) - first vec4 is the start point and the time th
 Location Based Trigger - takes a ship and the location, and the acceptable distance from the location, and when the ship reaches the location, turns light 0 on.
 
 DEMO VIDEOs
-https://youtu.be/NXySGJ9WojY	(shorter)
-https://youtu.be/ri2v6_3Bqf4
+https://youtu.be/NXySGJ9WojY
